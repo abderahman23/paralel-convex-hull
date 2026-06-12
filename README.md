@@ -71,6 +71,14 @@ Referans olarak kullanılan klasik O(n) zaman karmaşıklığına sahip yöntemd
 | 16 | 420.0 | 38.0 | 11.05x |
 | 32 | 420.0 | 29.0 | 14.48x | :contentReference[oaicite:3]{index=3}
 
+## Performans Grafikleri
+
+### Thread Sayısına Göre Performans
+![Performans Grafikleri](performans_grafikleri.png)
+
+### Yöntem Karşılaştırması
+![Yöntem Karşılaştırması](yontem_karsilastirmasi.png)
+
 ## Derleme ve Çalıştırma
 
 ### Derleme
