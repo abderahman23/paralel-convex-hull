@@ -121,3 +121,6 @@ Bu proje, paralel programlama tekniklerinin geometrik problemlerde nasıl etkili
 2. Brian Goetz – *Java Concurrency in Practice*
 3. Doug Lea – *Java Parallel Programming*
 4. Ananth Grama – *Introduction to Parallel Computing*
+
+## Video link:
+https://www.youtube.com/watch?v=uv3CsAT9SZI
