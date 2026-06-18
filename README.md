@@ -1,4 +1,4 @@
-# paralelProgramlama# Paralel Programlama Projesi
+# Paralel Programlama Projesi
 ## Thread Kullanarak Convex/Concave Poligon Kontrolü
 
 Bu proje, bir poligonun **convex (dışbükey)** veya **concave (içbükey)** olup olmadığını, verilen köşe koordinatları üzerinden **paralel programlama teknikleri** kullanarak belirlemeyi amaçlamaktadır.
