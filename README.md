@@ -123,4 +123,4 @@ Bu proje, paralel programlama tekniklerinin geometrik problemlerde nasıl etkili
 4. Ananth Grama – *Introduction to Parallel Computing*
 
 ## Video link:
-https://www.youtube.com/watch?v=uv3CsAT9SZI
+[https://www.youtube.com/watch?v=uv3CsAT9SZI](https://youtu.be/jo-v0KT2G1g)
